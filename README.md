@@ -8,3 +8,4 @@ LMB (Left Mouse Button) to attack
 
 SPACE to boost
 
+Binary for Windows
